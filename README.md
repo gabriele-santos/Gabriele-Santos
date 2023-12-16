@@ -28,3 +28,5 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<img src="octocat-1702770412882.png" alt="Texto Alternativo">
+
