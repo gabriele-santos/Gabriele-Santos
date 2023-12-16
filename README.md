@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
-**gabriele-santos/Gabriele-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#👋 Olá! Meu nome é ##Gabriele!
+# Bem-vindo ao meu perfil no Github.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
