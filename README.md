@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#👋 Olá! Meu nome é ##Gabriele!
+##👋 Olá! Meu nome é Gabriele!
 # Bem-vindo ao meu perfil no Github.
 
 
