@@ -1,5 +1,5 @@
 # 👋 Olá, me chamo Gabriele!
-## Bem vindo ao meu perfil do GitHub
+# Bem vindo ao meu perfil do GitHub
 
 - :computer: Atualmente trabalho com Front-end
 - :telescope: Sempre buscando aprirmorar meus conhecimento!
