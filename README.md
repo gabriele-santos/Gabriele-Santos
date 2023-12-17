@@ -5,7 +5,7 @@
 
 
 - :computer: Atualmente trabalho com Front-end
-- :telescope: Sempre buscando aprirmorar meus conhecimento!
+- :telescope: Estou sempre buscando aprirmorar meus conhecimento!
 
 
 ## Ferramentas e Tecnologias
