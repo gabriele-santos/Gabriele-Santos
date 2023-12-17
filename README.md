@@ -28,5 +28,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele-santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<img src="assets/octocat.png" alt="Texto Alternativo">
-
+<img  src="assets/octocat.png" alt="octocat" align="right" width="400px">
