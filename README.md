@@ -1,7 +1,8 @@
+<img  src="assets/octocat.png" alt="octocat" align="right" width="400px">
+
 # 👋 Olá, me chamo Gabriele!
 ## Bem vindo ao meu perfil do GitHub
 
-<img  src="assets/octocat.png" alt="octocat" align="right" width="400px">
 
 - :computer: Atualmente trabalho com Front-end
 - :telescope: Sempre buscando aprirmorar meus conhecimento!
